@@ -23,6 +23,6 @@ public class SampleTask1 {
 		
 		//close the browser
 		
-		System.out.println("to master");
+		System.out.println("From different account to my account");
 	}
 }
