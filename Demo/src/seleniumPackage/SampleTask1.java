@@ -23,6 +23,6 @@ public class SampleTask1 {
 		
 		//close the browser
 		
-		
+		System.out.println("to master");
 	}
 }
