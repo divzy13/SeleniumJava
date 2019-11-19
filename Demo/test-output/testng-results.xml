@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29233" started-at="2019-06-28T11:39:39Z" finished-at="2019-06-28T11:40:09Z">
+  <suite name="Default suite" duration-ms="12852" started-at="2019-11-19T10:09:25Z" finished-at="2019-11-19T10:09:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29233" started-at="2019-06-28T11:39:39Z" finished-at="2019-06-28T11:40:09Z">
-      <class name="seleniumPackage.Sample2">
-        <test-method status="PASS" signature="startTest()[pri:0, instance:seleniumPackage.Sample2@51081592]" name="startTest" is-config="true" duration-ms="12894" started-at="2019-06-28T11:39:39Z" finished-at="2019-06-28T11:39:52Z">
+    <test name="Default test" duration-ms="12852" started-at="2019-11-19T10:09:25Z" finished-at="2019-11-19T10:09:38Z">
+      <class name="seleniumPackage.SampleTask1">
+        <test-method status="PASS" signature="OpenHomepage()[pri:0, instance:seleniumPackage.SampleTask1@396a51ab]" name="OpenHomepage" duration-ms="12823" started-at="2019-11-19T10:09:25Z" finished-at="2019-11-19T10:09:38Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- startTest -->
-        <test-method status="PASS" signature="validatePage()[pri:0, instance:seleniumPackage.Sample2@51081592]" name="validatePage" duration-ms="16243" started-at="2019-06-28T11:39:52Z" finished-at="2019-06-28T11:40:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- validatePage -->
-        <test-method status="PASS" signature="EndTest()[pri:0, instance:seleniumPackage.Sample2@51081592]" name="EndTest" is-config="true" duration-ms="84" started-at="2019-06-28T11:40:09Z" finished-at="2019-06-28T11:40:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- EndTest -->
-      </class> <!-- seleniumPackage.Sample2 -->
+        </test-method> <!-- OpenHomepage -->
+      </class> <!-- seleniumPackage.SampleTask1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
