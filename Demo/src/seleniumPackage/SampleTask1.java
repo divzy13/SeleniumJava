@@ -23,7 +23,7 @@ public class SampleTask1 {
 		
 		//close the browser
 		
-		System.out.println("From different account to my account");
-		System.out.println("sefvfdvcond dsdfgcommit");
+		System.out.println("Final merge with Feature from another account with permission in contributer session");
+		
 	}
 }
